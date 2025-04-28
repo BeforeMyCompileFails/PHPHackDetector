@@ -24,7 +24,7 @@ A Bash script for scanning PHP-based websites for common web-based threats inclu
 Clone the repository and make the script executable:
 
 ```bash
-git clone https://github.com/yourusername/php-hack-detector.git
+git clone https://github.com/BeforeMyCompileFails/php-hack-detector.git
 cd php-hack-detector
 chmod +x php-hack-detector.sh
 ```
